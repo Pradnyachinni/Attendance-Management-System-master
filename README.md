@@ -1,9 +1,7 @@
 # Attendance Management System
-Technologies used:  HTML5, CSS3, PHP and MySQL.
-
 ![preview](https://user-images.githubusercontent.com/55854146/90153522-bb01fa00-dda6-11ea-8d2e-0c9a7f95d033.jpg)
 
-
+Technologies used:  HTML5, CSS3, PHP and MySQL.
 ## Requirements
   - PHP 5.3 or higher.
   - MySQL 5.6 or higher for spatial features in MySQL.
